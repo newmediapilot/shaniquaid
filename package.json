@@ -1,0 +1,31 @@
+{
+  "name": "shaniquaid",
+  "version": "1.0.0",
+  "description": "Utility for generating unique ID's within an XLIFF file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-shaniquaid"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newmediapilot/shaniquaid.git"
+  },
+  "keywords": [
+    "XLIFF",
+    "generator",
+    "unique",
+    "ID",
+    "npm",
+    "node",
+    "utility",
+    "symfony",
+    "php",
+    "Twig"
+  ],
+  "author": "Marcin Zajkowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newmediapilot/shaniquaid/issues"
+  },
+  "homepage": "https://github.com/newmediapilot/shaniquaid"
+}
