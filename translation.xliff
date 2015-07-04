@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <!-- /src/Reddin/Bundle/StylePlannerBundle/Resources/views/assessment/assessment.html.twig -->
+        <body>
+            
+            
+            <trans-unit id="1">
+                <source>intro.title</source>
+                <target><![CDATA[￼￼￼￼My Style Assessment]]></target>
+            </trans-unit>
+            
+            <trans-unit id="2">
+                <source>intro.client.text1</source>
+                <target><![CDATA[You are about to begin your journey through 56 pairs of statements. Pick the statement that best describes how you have behaved in the last 3 months.]]></target>
+            </trans-unit>
+            
+            <trans-unit id="3">
+                <source>intro.participant.text1</source>
+                <target><![CDATA[You are about to begin your journey through 56 pairs of statements. Pick the statement that best describes how your manager has behaved in the last 3 months.]]></target>
+            </trans-unit>
+            
+            <trans-unit id="4">
+                <source>intro.client.text2</source>
+                <target><![CDATA[You must answer every pair. Some of the statements will be tough to choose between, or might not seem to apply. There is a proven method behind it. Just go with the one that would fit more than the other.]]></target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>intro.client.text3</source>
+                <target><![CDATA[Hit Pause if you need to stop mid-way and you can continue later.]]></target>
+            </trans-unit>
+            
+            
+            
+            <trans-unit id="6">
+                <source>intro.button.continue</source>
+                <target><![CDATA[Continue]]></target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>intro.button</source>
+                <target><![CDATA[Continue]]></target>
+            </trans-unit>
+           
+            
+            <trans-unit id="8">
+                <source>complete.title</source>
+                <target><![CDATA[Complete:]]></target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>complete.client.title</source>
+                <target><![CDATA[Thanks! You're all done.]]></target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>complete.client.text1</source>
+                <target><![CDATA[Your coach will be in touch with the Style Planner results soon.]]></target>
+            </trans-unit>
+            <trans-unit id="11">
+                <source>complete.button.invite</source>
+                <target><![CDATA[Invite Others]]></target>
+            </trans-unit>
+            <trans-unit id="12">
+                <source>complete.button.logout</source>
+                <target><![CDATA[Log out]]></target>
+            </trans-unit>
+            
+            
+            <trans-unit id="13">
+                <source>assess.client.title</source>
+                <target><![CDATA[3D Style Planner Self Assessment:]]></target>
+            </trans-unit>
+            
+            <trans-unit id="14">
+                <source>assess.participant.title</source>
+                <target><![CDATA[Participant assessement:]]></target>
+            </trans-unit>
+            
+            <trans-unit id="15">
+                <source>assess.header</source>
+                <target><![CDATA[Select the statement that best applies]]></target>
+            </trans-unit>
+            <trans-unit id="16">
+                <source>assess.button.submit</source>
+                <target><![CDATA[Next]]></target>
+            </trans-unit>
+            <trans-unit id="17">
+                <source>assess.button.pause</source>
+                <target><![CDATA[Pause]]></target>
+            </trans-unit>
+            
+            
+            <trans-unit id="18">
+                <source>ajax.error.title</source>
+                <target><![CDATA[Oops! Sorry about that.]]></target>
+            </trans-unit> 
+            <trans-unit id="19">
+                <source>ajax.button.error</source>
+                <target><![CDATA[Back to Dashboard]]></target>
+            </trans-unit>
+            <trans-unit id="20">
+                <source>ajax.error.connect</source>
+                <target><![CDATA[There was an error conecting to the questionnaire.]]></target>
+            </trans-unit>
+            <trans-unit id="21">
+                <source>ajax.error.timeout</source>
+                <target><![CDATA[Looks like our server is taking a long time to respond.]]></target>
+            </trans-unit>
+            
+        </body>
+    </file>
+</xliff>
