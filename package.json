@@ -1,0 +1,26 @@
+{
+  "name": "shaniquaid",
+  "version": "0.1.0",
+  "description": "Node module for parsing XLIFF file id's.",
+  "main": "shaniquaid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newmediapilot/shaniquaid.git"
+  },
+  "keywords": [
+    "xliff",
+    "symfony",
+    "parse",
+    "id",
+    "translation"
+  ],
+  "author": "marcin z.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newmediapilot/shaniquaid/issues"
+  },
+  "homepage": "https://github.com/newmediapilot/shaniquaid"
+}
