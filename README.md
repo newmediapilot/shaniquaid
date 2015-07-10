@@ -3,7 +3,7 @@ XLIFF Unique ID Generator
 
 # Installation:
 ```
-npm install git://github.com/visionmedia/express.git -g
+I HAVE NO IDEA HOW TO PUBLISH THIS YET...
 ```
 
 # Usage:
