@@ -3,7 +3,7 @@ XLIFF Unique ID Generator
 
 # Installation:
 ```
-npm install git+https://github.com/newmediapilot/shaniquaid
+npm install -g git+https://github.com/newmediapilot/shaniquaid
 ```
 
 # Usage:
